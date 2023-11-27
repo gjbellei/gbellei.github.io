@@ -4,14 +4,18 @@ excerpt: "Projeto para controle de VANT com visão computacional<br/><img src='/
 collection: portfolio
 ---
 
-Este projeto foi desenvolvido como parte de minha dissertação de mestrado. Seu objetivo é o desenvolvimento de um sistema de controle, orientação e navegação para um Veículo Aéreo Não-Tripulado (VANT), utilizando técnicas de visão computacional. Este sistema deve permitir que o veículo realize a inspeção das linhas de transmissão de maneira autônoma, além de auxiliar o operador humano no pouso sobre os condutores e/ou cabos para-raio dessas linhas.
+This project aims to delve into a wine cellar/store dataset that showcases high-quality wines from around the world. The dataset includes details about 7,500 harvested wines, covering regions, types, prices, ratings, and specific characteristics. The project aims to investigate, establish relationships, identify trends, and suggest improvements for a more efficient pricing strategy.
 
-A aplicação foi desenvolvida como um pacote ROS (Robot Operating System), sendo composta por diversos nós, tópicos e serviços. Com o auxílio da biblioteca *Tkinter* em linguagem Python, uma interface gráfica do usuário (GUI) simples e amigável foi construída. Um modelo de detecção de objetos baseado na arquitetura **YOLO** e **técnicas clássicas de visão computacional** foram utilizados para identificar cada cabo condutor e para-raio das linhas de transmissão.
+Analytical objectives centered around the primary goal of developing an effective pricing strategy, focusing on key factors like regions, types, price, and rating. Initial steps involved understanding the business, treating duplicates, missing values, and outliers, resulting in a refined dataset for exploratory analysis and predictive models.
 
-Como resultados do projeto, foi visto que o sistema é capaz de realizar a tarefa de rastreamento das linhas de transmissão de forma robusta, mesmo quando exposto a mudanças abruptas na orientação das linhas. Também foi verificado que o sistema reduz boa parte do esforço manual necessário para que um operador realize o pouso sobre as linhas de transmissão. Para mais detalhes, você pode acessar minha dissertação de mestrado [aqui](https://drive.google.com/file/d/12A0chRwYH55cX5iv-3A38wMTLE6BZa7J/view).
+Data adjustments included converting data types, eliminating duplicates, addressing price outliers, and treating missing values. The analysis focused on understanding the business by types and regions, identifying highest-priced and top-rated wines, and examining correlations between variables.
 
-![v4uav](/images/v4uav-picture-1.png)
+Predictive objectives aimed to predict wine ratings and prices based on variable combinations. Conclusions highlighted factors influencing ratings and prices, such as residual sugar level, alcohol content, and wine age.
 
-*Resultados dos ensaios de rastreamento realizados*
+Cluster analysis categorized wines based on prices, age, residual sugar, and alcohol percentage. Three clusters were identified, each representing distinct wine characteristics and market appeal.
 
-[Link para o repositório no GitHub](https://github.com/lcfdiniz/v4uav)
+Premium Pricing Strategy Enhancement was recommended, emphasizing elevated prices for better ratings and brand prestige. For Cluster 2 wines, a value-focused pricing strategy was suggested, positioning them as affordable options with harmonious attributes. For Cluster 3 wines, a refinement strategy was proposed to enhance low-rated wines and cater to a specific niche audience.
+![v4uav](/images/clusterPRpng)
+![v4uav](/images/clusterRTpng)
+
+*Clusterings for Price (PR) and Rating (RT)*
