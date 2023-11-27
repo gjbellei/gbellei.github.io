@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Olá, meu nome é Lucas F. Diniz! 👋"
-excerpt: "Sobre mim"
+title: "Hello, my name is Gabriel J. Bellei! 👋"
+excerpt: "About me"
 author_profile: false
 redirect_from: 
   - /about/
@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/about-me-photo.png">
+  <img src="/images/about-me-photo.jpg">
 </p>
 
-Sou um **Cientista de Dados** com experiência em projetos complexos em conjunto com grandes empresas, tanto em âmbito acadêmico como profissional. Apaixonado por resolver problemas e oferecer **soluções orientadas a dados**, que atendam às necessidades dos clientes. Possuo experiência prática com técnicas de visão computacional, aprendizado de máquina e desenvolvimento de software para sistemas inteligentes. Mestre em Engenharia Elétrica pela UFJF e Especialista em Ciência de Dados e Analytics pela PUC-Rio.
+I am a data analytics student at Toronto School of Managament. I am also a Production Engineer who believes in working with purpose. I am passionate about learning new things and am very curious about new technologies.
 
 [![linkedin](/images/linkedin.png)][1]
 [![medium](/images/medium.png)][2]
 [![outlook](/images/outlook.png)][3]
 [![github](/images/github.png)][4]
 
-[1]: https://www.linkedin.com/in/lcfdiniz
-[2]: https://medium.com/@lcfdiniz
-[3]: mailto:lcfdiniz@outlook.com
-[4]: https://github.com/lcfdiniz
+[1]: https://www.linkedin.com/in/gabrieljabourbellei/
+[2]: https://medium.com/@lcfdiniz](https://medium.com/@gabrieljabourbellei
+[3]: mailto:gabriel.bellei@engenharia.ufjf.br
+[4]: https://github.com/gjbellei
