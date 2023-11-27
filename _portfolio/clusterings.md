@@ -14,6 +14,6 @@ Predictive objectives aimed to predict wine ratings and prices based on variable
 
 Cluster analysis categorized wines based on prices, age, residual sugar, and alcohol percentage. Three clusters were identified, each representing distinct wine characteristics and market appeal.
 
-Premium Pricing Strategy Enhancement was recommended, emphasizing elevated prices for better ratings and brand prestige. For Cluster 2 wines, a value-focused pricing strategy was suggested, positioning them as affordable options with harmonious attributes. For Cluster 3 wines, a refinement strategy was proposed to enhance low-rated wines and cater to a specific niche audience.
+Premium Pricing Strategy Enhancement was recommended for Cluster 1, emphasizing elevated prices for better ratings and brand prestige. For Cluster 2 wines, a value-focused pricing strategy was suggested, positioning them as affordable options with harmonious attributes. For Cluster 3 wines, a refinement strategy was proposed to enhance low-rated wines and cater to a specific niche audience.
 ![clusterings](/images/clusterPR.png)
 *Cluster for Price*
