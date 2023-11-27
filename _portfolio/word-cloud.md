@@ -16,6 +16,5 @@ As a result, the general word cloud was considerably similar to the positive wor
 
 
 ![bank-customer-churn](/images/wordcloud.png)
+*
 *General Word Cloud*
-
-[Link para o repositório no GitHub](https://github.com/lcfdiniz/puc-rio/tree/main/bank-customer-churn)
