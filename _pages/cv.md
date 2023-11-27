@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,59 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Versão em PDF disponível [aqui](https://lcfdiniz.github.io/files/cv-lucas-f-diniz.pdf).
+[Click](https://gjbellei.github.io/files/cv-gabriel-j-bellei.pdf) for PDF version.
 
-Educação
+Educcation
 ======
-* Especialização em Ciência de Dados e Analytics, Pontifícia Universidade Católica do Rio de Janeiro, 2023
-* Mestrado em Engenharia Elétrica, Universidade Federal Juiz de Fora, 2023
-* Bacharelado em Engenharia Elétrica, Universidade Federal Juiz de Fora, 2020
+* Toronto School of Management, Diploma in Data Analytics Co-op, Canada, 05/2023-05/2024
+* Federal University of Juiz de Fora, Production Engineering, Brazil, 05/2013-03/2021
 
-Experiência Profissional
+
+Professional Experience
 ======
-* **Cientista de Dados @ Robotictech (2022 - Atual)**
-  * Responsável pela análise de dados e desenvolvimento de modelos preditivos em uma startup da área de tecnologia. Junto com uma equipe de 5 pessoas, realizou a entrega do primeiro produto da empresa, voltado para o setor de energia. Veja mais sobre essa entrega [aqui](https://www.youtube.com/watch?v=g70jpJTKWJQ).
-  * Atividades:
-    * Desenvolvimento de um sistema para recenseamento do parque de iluminação pública com técnicas de inteligência computacional, tornando o processo ao menos 50 vezes mais rápido
-    * Desenvolvimento de modelos de Deep Learning para classificação e detecção de objetos em imagens
-    * Desenvolvimento de modelos de Machine Learning para solução de problemas de classificação e clusterização
-    * Pesquisa de técnicas de visão computacional no estado-da-arte
+* **Data Analyst @ Little me, Brazil 05/2022 – 05/2023**
+● Developed automated reporting and data analysis tools with Python and Power BI, resulting in a 30% increase in
+productivity.
+● Implemented data-driven strategies to identify high-margin products and create customer profiles, leading to improved
+pricing, inventory management, and increased customer engagement and sales.
   
-Habilidades
+Skills
 ======
-* **Linguagens de programação**
+* **Programming Languages**
   * Python
   * SQL
-  * C/C++
+  * R
   * Matlab
-* **Bibliotecas e Frameworks**
-  * Pandas, Numpy, Scipy
-  * Matplotlib, Seaborn
-  * TensorFlow, Keras, PyTorch
-* **Banco de Dados e Big Data**
-  * Hadoop, Spark, Hive
-  * SGBDs (PostgreSQL, MySQL, MongoDB, Neo4j)
-* **Ferramentas de desenvolvimento/infraestrutura**
-  * Git
-  * Linux
-  * Docker
-  * Computação em nuvem (AWS, GCP)
-* **Visão Computacional**
-  * OpenCV
-  * YOLO
-  * U-Net
-  * Albumentations
-* **Inglês** (Certificação B2 First, Cambridge University)
-
-Cursos livres
-======
-* **Deep Learning Specialization**, DeepLearning.AI
-* **Data Science & Machine Learning**, Tera
-* **Machine Learning**, Stanford University
-* **SQL for Data Science**, University of California, Davis
-
-Publicações
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Libraries**
+  * Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
+  * dplyr, ggplot2
+* **Softwares**
+  * Excel
+  * Power BI
+  * Tableau
