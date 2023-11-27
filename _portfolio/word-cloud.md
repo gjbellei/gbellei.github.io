@@ -1,5 +1,5 @@
 ---
-title: "Word Cloud Analysis of a Book Reviews Dataset"
+title: "Word Cloud Analysis in Python"
 excerpt: "Exploring Sentiments in Book Reviews: Unveiling Patterns through Word Cloud Analysis and Predictive Modeling<br/><img src='/images/nlp.jpg'>"
 collection: portfolio
 ---
