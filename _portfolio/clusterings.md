@@ -1,6 +1,6 @@
 ---
-title: "V4UAV"
-excerpt: "Projeto para controle de VANT com visão computacional<br/><img src='/images/v4uav.jpg'>"
+title: "Cluster Analysis in R"
+excerpt: "Analyzing and Enhancing Wine Pricing Strategies: Insights from Dataset Exploration and Predictive Modeling"<br/><img src='/images/clusters.png'>"
 collection: portfolio
 ---
 
@@ -15,7 +15,7 @@ Predictive objectives aimed to predict wine ratings and prices based on variable
 Cluster analysis categorized wines based on prices, age, residual sugar, and alcohol percentage. Three clusters were identified, each representing distinct wine characteristics and market appeal.
 
 Premium Pricing Strategy Enhancement was recommended, emphasizing elevated prices for better ratings and brand prestige. For Cluster 2 wines, a value-focused pricing strategy was suggested, positioning them as affordable options with harmonious attributes. For Cluster 3 wines, a refinement strategy was proposed to enhance low-rated wines and cater to a specific niche audience.
-![v4uav](/images/clusterPRpng)
-![v4uav](/images/clusterRTpng)
+![clusterings](/images/clusterPRpng)
+![clusterings](/images/clusterRTpng)
 
 *Clusterings for Price (PR) and Rating (RT)*
