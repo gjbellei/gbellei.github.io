@@ -20,6 +20,7 @@ Educcation
 Professional Experience
 ======
 * **Data Analyst @ Little me, Brazil 05/2022 – 05/2023**
+* 
 ● Developed automated reporting and data analysis tools with Python and Power BI, resulting in a 30% increase in
 productivity.
 ● Implemented data-driven strategies to identify high-margin products and create customer profiles, leading to improved
