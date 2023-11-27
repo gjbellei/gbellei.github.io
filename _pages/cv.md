@@ -11,7 +11,7 @@ redirect_from:
 
 [Click](https://gjbellei.github.io/files/cv-gabriel-j-bellei.pdf) for PDF version.
 
-Educcation
+Education
 ======
 * Toronto School of Management, Diploma in Data Analytics Co-op, Canada, 05/2023-05/2024
 * Federal University of Juiz de Fora, Production Engineering, Brazil, 05/2013-03/2021
