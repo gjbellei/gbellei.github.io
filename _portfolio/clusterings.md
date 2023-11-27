@@ -16,6 +16,4 @@ Cluster analysis categorized wines based on prices, age, residual sugar, and alc
 
 Premium Pricing Strategy Enhancement was recommended, emphasizing elevated prices for better ratings and brand prestige. For Cluster 2 wines, a value-focused pricing strategy was suggested, positioning them as affordable options with harmonious attributes. For Cluster 3 wines, a refinement strategy was proposed to enhance low-rated wines and cater to a specific niche audience.
 ![clusterings](/images/clusterPR.png)
-![clusterings](/images/clusterRT.png)
-
-*Clusterings for Price (PR) and Rating (RT)*
+*Cluster for Price*
