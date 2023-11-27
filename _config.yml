@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt-BR"
-title                    : "Lucas F. Diniz"
+locale                   : "en-US"
+title                    : "Gabriel J. Bellei"
 title_separator          : "-"
-name                     : &name "Lucas F. Diniz"
-description              : &description "Cientista de Dados apaixonado por tecnologia, inovação e cultura data-driven!"
-url                      : https://lcfdiniz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gabriel J. Bellei"
+description              : &description "Data analytics student and a data-driven produdction engineer who believes in working with purpose!"
+url                      : https://gjbellei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lcfdiniz/lcfdiniz.github.io"
+repository               : "gjbellei/gjbellei.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucas F. Diniz"
+  name             : "Gabriel J. Bellei"
   avatar           : "profile.png"
-  bio              : "Cientista de Dados apaixonado por tecnologia, inovação e cultura data-driven!"
+  bio              : "Data analytics student and a data-driven produdction engineer who believes in working with purpose!"
   location         :
   employer         :
   pubmed           :
   googlescholar    :
-  email            : lcfdiniz@outlook.com
+  email            : gabriel.bellei@engenharia.ufjf.br
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,15 +96,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lcfdiniz"
-  medium           : "lcfdiniz"
+  github           : "gjbellei"
+  medium           : "gabrieljabourbellei"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "lcfdiniz"
-  orcid            : "https://orcid.org/0009-0007-3698-0927"
+  linkedin         : "gabrieljabourbellei"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
