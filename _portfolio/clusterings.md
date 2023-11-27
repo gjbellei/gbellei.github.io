@@ -1,6 +1,6 @@
 ---
 title: "Cluster Analysis in R"
-excerpt: "Analyzing and Enhancing Wine Pricing Strategies: Insights from Dataset Exploration and Predictive Modeling"<br/><img src='/images/clusters.png'>"
+excerpt: "Analyzing and Enhancing Wine Pricing Strategies: Insights from Dataset Exploration and Predictive Modeling<br/><img src='/images/clusters.png'>"
 collection: portfolio
 ---
 
