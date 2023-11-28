@@ -18,4 +18,4 @@ As a result, the general word cloud was considerably similar to the positive wor
 
 *General Word Cloud*
 
-[Link for repository on GitHub](https://github.com/gjbellei/wordcloud-in-python-for-book-reviews/blob/main/PythonFinalProject.py)
+[Link for repository on GitHub](https://github.com/gjbellei/wordcloud-in-python-for-book-reviews/tree/main)
