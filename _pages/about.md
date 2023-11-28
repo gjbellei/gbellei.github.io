@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/profile.jpg">
+  <img src="/images/student.jpeg">
 </p>
 
 I am a data analytics student at Toronto School of Managament. I am also a Production Engineer who believes in working with purpose. I am passionate about learning new things and am very curious about new technologies.
