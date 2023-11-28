@@ -13,5 +13,6 @@ A logistic regression model was employed to predict sentiment based on text-base
 The project aimed to extract valuable insights from this massive book reviews dataset, providing sentiment analysis and predictive models for both sentiment categories and book ratings.
 
 As a result, the general word cloud was considerably similar to the positive word cloud, which shows that most of the reviews were positive. The compound score function used also indicates this. In the end, the logistic regression model built showed a 93% accuracy, and the multinomial logistic regression model had a Mean Squared Error (MSE) of 1.33 and a Mean Absolute Error (MAE) of 0.58.
+
 ![word-cloud](/images/wordcloud.png)
 *General Word Cloud*
