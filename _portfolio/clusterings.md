@@ -18,6 +18,6 @@ Premium Pricing Strategy Enhancement was recommended for Cluster 1, emphasizing 
 ![clusterings](/images/clusterPR.png)
 *Cluster for Price*
 
-[Link for repository on github]([https://github.com/gjbellei/cluster-analysis-in-R-for-a-wine-cellar])
+[Link for repository on GitHub]([https://github.com/gjbellei/cluster-analysis-in-R-for-a-wine-cellar])
 
 
