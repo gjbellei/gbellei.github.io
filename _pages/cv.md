@@ -32,7 +32,6 @@ Skills
   * Python
   * SQL
   * R
-  * Matlab
 * **Libraries**
   * Python: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Bokeh, Altair, Plotly.express, NLTK, SciPy
   * R: dplyr, ggplot2
