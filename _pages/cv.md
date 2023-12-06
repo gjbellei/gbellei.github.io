@@ -34,8 +34,8 @@ Skills
   * R
   * Matlab
 * **Libraries**
-  * Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
-  * dplyr, ggplot2
+  * Python: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Bokeh, Altair, Plotly.express, NLTK, SciPy
+  * R: dplyr, ggplot2
 * **Softwares**
   * Excel
   * Power BI
