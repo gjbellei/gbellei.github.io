@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabriel J. Bellei"
 title_separator          : "-"
 name                     : &name "Gabriel J. Bellei"
-description              : &description "Data analytics student and a data-driven production engineer who believes in working with purpose!"
+description              : &description "Data analyst and a data-driven production engineer who believes in working with purpose!"
 url                      : https://gjbellei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gjbellei/gjbellei.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gabriel J. Bellei"
   avatar           : "profile.jpg"
-  bio              : "Data analytics student and a data-driven production engineer who believes in working with purpose!"
+  bio              : "Data analyst and a data-driven production engineer who believes in working with purpose!"
   location         :
   employer         :
   pubmed           :
