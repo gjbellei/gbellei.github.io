@@ -12,7 +12,7 @@ redirect_from:
   <img src="/images/student.jpeg">
 </p>
 
-I am a data analytics student at Toronto School of Managament. I am also a Production Engineer who believes in working with purpose. I am passionate about learning new things and am very curious about new technologies.
+I am a Data Analytics graduate from Toronto School of Management and also a Production Engineer at UFJF. My expertise spans across strategic, quality, and financial fields, all aligned with data analytics. I firmly believe in working with purpose and am passionate about new technologies.
 
 [![linkedin](/images/linkedin.png)][1]
 [![medium](/images/medium.png)][2]
