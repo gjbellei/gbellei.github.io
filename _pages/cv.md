@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click](https://gjbellei.github.io/files/cv-gabriel-j-bellei.pdf) for PDF version.
+[Click](https://gjbellei.github.io/files/Gabriel Bellei - Data Analyst.pdf) for PDF version.
 
 Education
 ======
